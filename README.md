@@ -16,9 +16,7 @@ Vaka Isha Reddy
 ##Setup
 To Setup Client - Run the following commands
 ````
-```
 cd dir_name
 yarn
 yarn dev
-```
 ````
